@@ -5,3 +5,5 @@ Controlled with WASD, different camera modes with ZXCV.
 
    ```bash
    g++ -o grua grua.cpp dibujo.c -lGL -lglad -lglfw -lm
+   ```
+![amogus](screenshot.png)
